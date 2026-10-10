@@ -1,0 +1,6 @@
+{
+  "name": "AbhayaSetu - Women's Safety & Crisis Response Network",
+  "description": "Comprehensive women's safety ecosystem featuring instant SOS alert, real-time safety mapping with Hamirpur HP data, calming ElevenLabs voice navigation, women-driven cab network, cyber morphing & fake call detection, and forensic audio vault.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
